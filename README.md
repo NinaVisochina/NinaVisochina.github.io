@@ -1,8 +1,10 @@
 # NinaVisochina.github.io
 <HTML>
-<Head>
+<HEAD>
   <meta charset="utf-8">
  <title>Сайт web-студії "Web-DECO"</title>
   </HEAD>
+  <BODY>
+    
   </BODY>
   </HTML>
